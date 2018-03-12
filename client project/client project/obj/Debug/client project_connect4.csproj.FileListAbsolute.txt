@@ -1,0 +1,9 @@
+C:\Users\ahmed magdy\Documents\Visual Studio 2017\Projects\client project\client project\bin\Debug\client project.exe
+C:\Users\ahmed magdy\Documents\Visual Studio 2017\Projects\client project\client project\bin\Debug\client project.pdb
+C:\Users\ahmed magdy\Documents\Visual Studio 2017\Projects\client project\client project\obj\Debug\client project_connect4.csprojResolveAssemblyReference.cache
+C:\Users\ahmed magdy\Documents\Visual Studio 2017\Projects\client project\client project\obj\Debug\Client.Login.resources
+C:\Users\ahmed magdy\Documents\Visual Studio 2017\Projects\client project\client project\obj\Debug\client.Main.resources
+C:\Users\ahmed magdy\Documents\Visual Studio 2017\Projects\client project\client project\obj\Debug\client_project.Properties.Resources.resources
+C:\Users\ahmed magdy\Documents\Visual Studio 2017\Projects\client project\client project\obj\Debug\client project_connect4.csproj.GenerateResource.Cache
+C:\Users\ahmed magdy\Documents\Visual Studio 2017\Projects\client project\client project\obj\Debug\client project.exe
+C:\Users\ahmed magdy\Documents\Visual Studio 2017\Projects\client project\client project\obj\Debug\client project.pdb

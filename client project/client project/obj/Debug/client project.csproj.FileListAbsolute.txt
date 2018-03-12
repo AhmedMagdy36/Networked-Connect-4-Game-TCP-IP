@@ -1,0 +1,105 @@
+C:\Users\ACER\documents\visual studio 2017\Projects\client project\client project\bin\Debug\client project.exe
+C:\Users\ACER\documents\visual studio 2017\Projects\client project\client project\bin\Debug\client project.pdb
+C:\Users\ACER\documents\visual studio 2017\Projects\client project\client project\obj\Debug\client project.csprojResolveAssemblyReference.cache
+C:\Users\ACER\documents\visual studio 2017\Projects\client project\client project\obj\Debug\client_project.Form1.resources
+C:\Users\ACER\documents\visual studio 2017\Projects\client project\client project\obj\Debug\client_project.Properties.Resources.resources
+C:\Users\ACER\documents\visual studio 2017\Projects\client project\client project\obj\Debug\client project.csproj.GenerateResource.Cache
+C:\Users\ACER\documents\visual studio 2017\Projects\client project\client project\obj\Debug\client project.exe
+C:\Users\ACER\documents\visual studio 2017\Projects\client project\client project\obj\Debug\client project.pdb
+G:\client project\client project\obj\Debug\client project.exe
+G:\client project\client project\obj\Debug\client project.pdb
+G:\client project\client project\bin\Debug\client project.exe
+G:\client project\client project\bin\Debug\client project.pdb
+G:\client project\client project\obj\Debug\client project.csprojResolveAssemblyReference.cache
+G:\client project\client project\obj\Debug\client_project.Form1.resources
+G:\client project\client project\obj\Debug\client_project.Properties.Resources.resources
+G:\client project\client project\obj\Debug\client project.csproj.GenerateResource.Cache
+C:\Users\Ghito\Desktop\client project\client project\obj\Debug\client project.exe
+C:\Users\Ghito\Desktop\client project\client project\obj\Debug\client project.pdb
+C:\Users\Ghito\Desktop\client project\client project\obj\Debug\Client.Login.resources
+C:\Users\Ghito\Desktop\client project\client project\obj\Debug\client_project.Properties.Resources.resources
+C:\Users\Ghito\Desktop\client project\client project\obj\Debug\client project.csproj.GenerateResource.Cache
+C:\Users\Ghito\Desktop\client project\client project\bin\Debug\client project.exe
+C:\Users\Ghito\Desktop\client project\client project\bin\Debug\client project.pdb
+C:\Users\Ghito\Desktop\client project\client project\obj\Debug\client.Main.resources
+C:\Users\ahmed magdy\Documents\Visual Studio 2017\Projects\client project\client project\bin\Debug\client project.exe
+C:\Users\ahmed magdy\Documents\Visual Studio 2017\Projects\client project\client project\bin\Debug\client project.pdb
+C:\Users\ahmed magdy\Documents\Visual Studio 2017\Projects\client project\client project\obj\Debug\Client.Login.resources
+C:\Users\ahmed magdy\Documents\Visual Studio 2017\Projects\client project\client project\obj\Debug\client.Main.resources
+C:\Users\ahmed magdy\Documents\Visual Studio 2017\Projects\client project\client project\obj\Debug\client_project.myGame.resources
+C:\Users\ahmed magdy\Documents\Visual Studio 2017\Projects\client project\client project\obj\Debug\client_project.Properties.Resources.resources
+C:\Users\ahmed magdy\Documents\Visual Studio 2017\Projects\client project\client project\obj\Debug\client project.csproj.GenerateResource.Cache
+C:\Users\ahmed magdy\Documents\Visual Studio 2017\Projects\client project\client project\obj\Debug\client project.exe
+C:\Users\ahmed magdy\Documents\Visual Studio 2017\Projects\client project\client project\obj\Debug\client project.pdb
+C:\Users\ahmed magdy\Documents\Visual Studio 2017\Projects\client project\client project\obj\Debug\client project.csprojResolveAssemblyReference.cache
+C:\Users\fawzi\Desktop\finnnnnnal\client project\client project\bin\Debug\client project.exe
+C:\Users\fawzi\Desktop\finnnnnnal\client project\client project\bin\Debug\client project.pdb
+C:\Users\fawzi\Desktop\finnnnnnal\client project\client project\obj\Debug\client project.csprojResolveAssemblyReference.cache
+C:\Users\fawzi\Desktop\finnnnnnal\client project\client project\obj\Debug\Client.Login.resources
+C:\Users\fawzi\Desktop\finnnnnnal\client project\client project\obj\Debug\client.Main.resources
+C:\Users\fawzi\Desktop\finnnnnnal\client project\client project\obj\Debug\client_project.myGame.resources
+C:\Users\fawzi\Desktop\finnnnnnal\client project\client project\obj\Debug\client_project.Properties.Resources.resources
+C:\Users\fawzi\Desktop\finnnnnnal\client project\client project\obj\Debug\client project.csproj.GenerateResource.Cache
+C:\Users\fawzi\Desktop\finnnnnnal\client project\client project\obj\Debug\client project.exe
+C:\Users\fawzi\Desktop\finnnnnnal\client project\client project\obj\Debug\client project.pdb
+C:\Users\ahmed magdy\Documents\Visual Studio 2017\Projects\final_version\client project\client project\bin\Debug\client project.exe
+C:\Users\ahmed magdy\Documents\Visual Studio 2017\Projects\final_version\client project\client project\bin\Debug\client project.pdb
+C:\Users\ahmed magdy\Documents\Visual Studio 2017\Projects\final_version\client project\client project\obj\Debug\client project.csprojResolveAssemblyReference.cache
+C:\Users\ahmed magdy\Documents\Visual Studio 2017\Projects\final_version\client project\client project\obj\Debug\Client.Login.resources
+C:\Users\ahmed magdy\Documents\Visual Studio 2017\Projects\final_version\client project\client project\obj\Debug\client.Main.resources
+C:\Users\ahmed magdy\Documents\Visual Studio 2017\Projects\final_version\client project\client project\obj\Debug\client_project.myGame.resources
+C:\Users\ahmed magdy\Documents\Visual Studio 2017\Projects\final_version\client project\client project\obj\Debug\client_project.Properties.Resources.resources
+C:\Users\ahmed magdy\Documents\Visual Studio 2017\Projects\final_version\client project\client project\obj\Debug\client project.csproj.GenerateResource.Cache
+C:\Users\ahmed magdy\Documents\Visual Studio 2017\Projects\final_version\client project\client project\obj\Debug\client project.exe
+C:\Users\ahmed magdy\Documents\Visual Studio 2017\Projects\final_version\client project\client project\obj\Debug\client project.pdb
+C:\Users\fawzi\Desktop\final 4\client project\client project\bin\Debug\client project.exe
+C:\Users\fawzi\Desktop\final 4\client project\client project\bin\Debug\client project.pdb
+C:\Users\fawzi\Desktop\final 4\client project\client project\obj\Debug\client project.csprojResolveAssemblyReference.cache
+C:\Users\fawzi\Desktop\final 4\client project\client project\obj\Debug\Client.Login.resources
+C:\Users\fawzi\Desktop\final 4\client project\client project\obj\Debug\client.Main.resources
+C:\Users\fawzi\Desktop\final 4\client project\client project\obj\Debug\client_project.myGame.resources
+C:\Users\fawzi\Desktop\final 4\client project\client project\obj\Debug\client_project.Properties.Resources.resources
+C:\Users\fawzi\Desktop\final 4\client project\client project\obj\Debug\client project.csproj.GenerateResource.Cache
+C:\Users\fawzi\Desktop\final 4\client project\client project\obj\Debug\client project.exe
+C:\Users\fawzi\Desktop\final 4\client project\client project\obj\Debug\client project.pdb
+C:\Users\ahmed magdy\Documents\Visual Studio 2017\Projects\final 5\client project\client project\bin\Debug\client project.exe
+C:\Users\ahmed magdy\Documents\Visual Studio 2017\Projects\final 5\client project\client project\bin\Debug\client project.pdb
+C:\Users\ahmed magdy\Documents\Visual Studio 2017\Projects\final 5\client project\client project\obj\Debug\client project.csprojResolveAssemblyReference.cache
+C:\Users\ahmed magdy\Documents\Visual Studio 2017\Projects\final 5\client project\client project\obj\Debug\Client.Login.resources
+C:\Users\ahmed magdy\Documents\Visual Studio 2017\Projects\final 5\client project\client project\obj\Debug\client.Main.resources
+C:\Users\ahmed magdy\Documents\Visual Studio 2017\Projects\final 5\client project\client project\obj\Debug\client_project.myGame.resources
+C:\Users\ahmed magdy\Documents\Visual Studio 2017\Projects\final 5\client project\client project\obj\Debug\client_project.Properties.Resources.resources
+C:\Users\ahmed magdy\Documents\Visual Studio 2017\Projects\final 5\client project\client project\obj\Debug\client project.csproj.GenerateResource.Cache
+C:\Users\ahmed magdy\Documents\Visual Studio 2017\Projects\final 5\client project\client project\obj\Debug\client project.exe
+C:\Users\ahmed magdy\Documents\Visual Studio 2017\Projects\final 5\client project\client project\obj\Debug\client project.pdb
+C:\Users\fawzi\Desktop\final 6\final 5\client project\client project\bin\Debug\client project.exe
+C:\Users\fawzi\Desktop\final 6\final 5\client project\client project\bin\Debug\client project.pdb
+C:\Users\fawzi\Desktop\final 6\final 5\client project\client project\obj\Debug\client project.csprojResolveAssemblyReference.cache
+C:\Users\fawzi\Desktop\final 6\final 5\client project\client project\obj\Debug\Client.Login.resources
+C:\Users\fawzi\Desktop\final 6\final 5\client project\client project\obj\Debug\client.Main.resources
+C:\Users\fawzi\Desktop\final 6\final 5\client project\client project\obj\Debug\client_project.myGame.resources
+C:\Users\fawzi\Desktop\final 6\final 5\client project\client project\obj\Debug\client_project.Properties.Resources.resources
+C:\Users\fawzi\Desktop\final 6\final 5\client project\client project\obj\Debug\client project.csproj.GenerateResource.Cache
+C:\Users\fawzi\Desktop\final 6\final 5\client project\client project\obj\Debug\client project.exe
+C:\Users\fawzi\Desktop\final 6\final 5\client project\client project\obj\Debug\client project.pdb
+C:\Users\ahmed magdy\Downloads\Compressed\client project\client project\bin\Debug\client project.exe
+C:\Users\ahmed magdy\Downloads\Compressed\client project\client project\bin\Debug\client project.pdb
+C:\Users\ahmed magdy\Downloads\Compressed\client project\client project\obj\Debug\client project.csprojResolveAssemblyReference.cache
+C:\Users\ahmed magdy\Downloads\Compressed\client project\client project\obj\Debug\Client.Login.resources
+C:\Users\ahmed magdy\Downloads\Compressed\client project\client project\obj\Debug\client.Main.resources
+C:\Users\ahmed magdy\Downloads\Compressed\client project\client project\obj\Debug\client_project.myGame.resources
+C:\Users\ahmed magdy\Downloads\Compressed\client project\client project\obj\Debug\client_project.Properties.Resources.resources
+C:\Users\ahmed magdy\Downloads\Compressed\client project\client project\obj\Debug\client project.csproj.GenerateResource.Cache
+C:\Users\ahmed magdy\Downloads\Compressed\client project\client project\obj\Debug\client project.exe
+C:\Users\ahmed magdy\Downloads\Compressed\client project\client project\obj\Debug\client project.pdb
+E:\ITI\C#_dataAccess\C#\C# Project\New folder\client project\client project\bin\Debug\client project.exe
+E:\ITI\C#_dataAccess\C#\C# Project\New folder\client project\client project\bin\Debug\client project.pdb
+E:\ITI\C#_dataAccess\C#\C# Project\New folder\client project\client project\bin\Debug\AxInterop.WMPLib.dll
+E:\ITI\C#_dataAccess\C#\C# Project\New folder\client project\client project\obj\Debug\client project.csprojResolveAssemblyReference.cache
+E:\ITI\C#_dataAccess\C#\C# Project\New folder\client project\client project\obj\Debug\Client.Login.resources
+E:\ITI\C#_dataAccess\C#\C# Project\New folder\client project\client project\obj\Debug\client.Main.resources
+E:\ITI\C#_dataAccess\C#\C# Project\New folder\client project\client project\obj\Debug\client_project.myGame.resources
+E:\ITI\C#_dataAccess\C#\C# Project\New folder\client project\client project\obj\Debug\client_project.Properties.Resources.resources
+E:\ITI\C#_dataAccess\C#\C# Project\New folder\client project\client project\obj\Debug\client project.csproj.GenerateResource.Cache
+E:\ITI\C#_dataAccess\C#\C# Project\New folder\client project\client project\obj\Debug\client project.exe
+E:\ITI\C#_dataAccess\C#\C# Project\New folder\client project\client project\obj\Debug\client project.pdb
